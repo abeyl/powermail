@@ -1,0 +1,11 @@
+{
+    "name": "in2code/powermail",
+    "type": "typo3-cms-extension",
+    "description": "powermail",
+    "version": "2.21.0",
+    "autoload": {
+        "psr-4": {
+            "In2code\\Powermail\\": "Classes"
+        }
+    }
+}
